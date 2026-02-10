@@ -14,7 +14,7 @@ const kuro = {
   focus: ["React", "Next.js", "TypeScript"],
   currentlyWorking: "Portfolio V2 + E-commerce website",
   learning: "Advanced TypeScript & UI/UX",
-  status: "☕ Coding with lofi beats"
+  status: "☕ Coding with ファントムシータ's music"
 };
 ```
 
