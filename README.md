@@ -2,7 +2,7 @@
 
 <img src="./assets/header.png" alt="Kuro Header" width="100%"/>
 
-# 🌙 KURO
+# 🌙 KURO / HESSA NADIRA S.
 
 **Frontend Developer** • React & Next.js
 
