@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./assets/header.png" alt="Kuro Header" width="100%"/>
+<img src="./assets/header2.webp" alt="Kuro Header" width="100%"/>
 
-# 🌙 KURO / HESSA NADIRA S.
+# 🕊 KURO / HESSA NADIRA S.
 
 **Frontend Developer** • React & Next.js
 
@@ -48,12 +48,7 @@ const kuro = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yushenankuro)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F6FEB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hessans.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-58A6FF?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
 <br>
-
-<img src="https://64.media.tumblr.com/8b683997bd95ec5f24d28198d45d23bd/14362a0ab4b449ed-8c/s1280x1920/d5bc8308f865c679f7e1224c15d6febfecb13a26.pnj" alt="profile views" />
-
-**Made with 🖤 by Kuro**
 
 </div>
